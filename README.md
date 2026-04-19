@@ -1,3 +1,4 @@
+https://akrakib.github.io/neon-brick-breaker/
 # 🔥 Neon Brick Breaker (Shape Edition)
 
 A modern, futuristic arcade-style Brick Breaker game built using pure HTML, CSS, and JavaScript.
